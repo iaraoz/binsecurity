@@ -24,4 +24,3 @@ Check a directory for DLLs
 
 C:\python binsecurity -d C:\Windows\System32
 ```
-```
