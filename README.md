@@ -6,6 +6,10 @@ binsecurity - Python script to check if Windows Binary (EXE/DLL) has ASLR,DEP,Sa
 ```
 Usage: ./binsecurity -h
 ```
+```
+Dependencie pefile 
+pip install pefile
+```
 
 ```
 Check Binary
